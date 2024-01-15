@@ -1,11 +1,11 @@
 # Bank-Management-System
 These are the microservices in spring-boot. Having five different microservice project.
 
-1.**Customer-Management-Service**
-2.**Account-Management-Service**
-3.**E-Server(eureka server)**
-4.**Config-Server(centralised configuration management)**
-5.**Api-gateway**
+- **Customer-Management-Service**
+- **Account-Management-Service**
+- **E-Server(eureka server)**
+- **Config-Server(centralised configuration management)**
+- **Api-gateway**
 
 ## PORT's
 - **Eureka-Server:** http://localhost:8761
